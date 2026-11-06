@@ -1,19 +1,8 @@
-&#x20;\<div align="center">
-
 # SecYourFlow
 
 **Unified Security Posture Management Platform**
 
 Consolidate security signals from scanners, CVE feeds, and compliance frameworks into actionable intelligence.
-
----
-
-
-
-\
-
-
-\</div>
 
 ---
 
@@ -169,9 +158,6 @@ secyourflow/
 
 This is a private and proprietary project. Contributions are limited to authorized team members only.
 
----
-
-\<div align="center">
 
 *Private and proprietary. All rights reserved.*
 
