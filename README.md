@@ -160,5 +160,3 @@ This is a private and proprietary project. Contributions are limited to authoriz
 
 
 *Private and proprietary. All rights reserved.*
-
-\</div>
